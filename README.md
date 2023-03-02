@@ -1,4 +1,4 @@
-### Hola, I'm [Raul Santos!](https://raulesantos.com) 👋
+### Hola, I'm [Raúl Santos!](https://raulesantos.com) 👋
 - 📫 How to reach me: [Twitter - @Tecnico1931](https://twitter.com/Tecnico1931) 
 - 😄 Pronouns: He/Him
 
