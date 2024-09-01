@@ -1,7 +1,7 @@
 ### Hola, I'm [Raúl Santos!](https://raulesantos.com) 👋
 - 📫 How to reach me: [X - @Tecnico1931](https://x.com/Tecnico1931) 
 - 😄 Pronouns: He/Him
-- 💼 [Linkedin (https://www.linkedin.com/in/raulesantos/)]
+- 💼 [Linkedin] (https://www.linkedin.com/in/raulesantos/)]
 <!--
 **Tecnico1931/Tecnico1931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
